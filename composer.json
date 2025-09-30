@@ -1,6 +1,6 @@
 {
     "name": "mariopereira/iso3166",
-    "description": "ISO 3166-1 PHP Library (fork of ",
+    "description": "ISO 3166-1 PHP Library (fork of alcohol project)",
     "keywords": ["ISO 3166", "ISO", "3166", "3166-1", "countries", "library"],
     "homepage": "https://github.com/mariopereira/iso3166",
     "license": "MIT",
